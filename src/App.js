@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Samuels! <code>src/App.js</code> !
+          I was changed on the feature branch!
         </p>
         <a
           className="App-link"
